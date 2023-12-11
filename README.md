@@ -42,4 +42,6 @@ I'm a firm believer in continuous learning. Currently, I'm diving into [VTQA (Vi
 I'm open to exciting collaboration opportunities. If you have a project or idea in mind, let's chat and see how we can work together!
 
 Thanks for stopping by! 🚀
+
+
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihagrassy&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
