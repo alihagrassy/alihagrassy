@@ -18,6 +18,7 @@ I'm a passionate and results-driven data scientist with a keen interest in lever
  
 
 ## 🛠️ Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 - **Programming Languages**: Python
 - **Machine Learning**: Scikit-Learn, TensorFlow, PyTorch,Transformers 
