@@ -1,6 +1,13 @@
-# Hi there! 👋 I'm Ali Waleed
+<h3 align="center">
+   Hi there!  I'm Ali Waleed
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 ## 🚀 About Me
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=DATA%20SCIENTIST%20AT%20OIE;TOP%2010%%20Kaggle%20LLM%20COMPETITION;Waiting%20For%20RDIFR%20TO%20be%20Published;HAPPY%20LEARNING%20↖(^▽^)↗&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
 I'm a passionate and results-driven data scientist with a keen interest in leveraging data to solve real-world problems. My journey in the data science realm has equipped me with a diverse skill set, ranging from exploratory data analysis to machine learning and deep learning.
 
@@ -40,8 +47,14 @@ I'm a firm believer in continuous learning. Currently, I'm diving into [VTQA (Vi
 ## 🤝 Open to Collaboration
 
 I'm open to exciting collaboration opportunities. If you have a project or idea in mind, let's chat and see how we can work together!
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihagrassy&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
 
-Thanks for stopping by! 🚀
+
+<a href="https://komarev.com/ghpvc/?username=alihagrassy&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=alihagrassy&style=for-the-badge">
+</a>
+
+Thanks for stopping by!  😊
 
 
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihagrassy&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
