@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Ali Waleed
 
 ## 🚀 About Me
 
@@ -6,14 +6,12 @@ I'm a passionate and results-driven data scientist with a keen interest in lever
 
 ## 💼 Experience
 
-- **Data Scientist** at [Company Name], where I [brief description of responsibilities and achievements].
-- **Research Assistant** at [University/Institution], contributing to [mention any research projects or publications].
+- **Data Scientist** at **Orange Innovation Egypt**, where I sucessfilly reach top 10% World-wide in Kaggle compettion LLM.
 
 ## 🌐 Portfolio
+**Highlights** :
 
-Check out my [portfolio](link to portfolio) for a glimpse into some of my notable projects. Here are a few highlights:
-
-- **Predictive Maintenance with Machine Learning**: [Link to project]
+- **Image forgery Detection Using Deep Learning**: [[Link to project](https://www.kaggle.com/code/alimistro123/project-image-forgery)]
 - **Natural Language Processing for Sentiment Analysis**: [Link to project]
 - **Interactive Data Visualization with Dash**: [Link to project]
 
