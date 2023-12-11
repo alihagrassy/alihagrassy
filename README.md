@@ -1,13 +1,16 @@
 <h3 align="center">
    Hi there!  I'm Ali Waleed
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-## 🚀 About Me
+<h3 align="center">
+<img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" width="190">
+   
+</h3>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=DATA%20SCIENTIST%20AT%20OIE;TOP%2010%%20Kaggle%20LLM%20COMPETITION;Waiting%20For%20RDIFR%20TO%20be%20Published;HAPPY%20LEARNING%20↖(^▽^)↗&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+
+ ## 🚀 About Me
 
 I'm a passionate and results-driven data scientist with a keen interest in leveraging data to solve real-world problems. My journey in the data science realm has equipped me with a diverse skill set, ranging from exploratory data analysis to machine learning and deep learning.
 
