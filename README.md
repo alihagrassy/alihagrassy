@@ -9,25 +9,23 @@ I'm a passionate and results-driven data scientist with a keen interest in lever
 - **Data Scientist** at **Orange Innovation Egypt**, where I sucessfilly reach top 10% World-wide in Kaggle compettion LLM.
 
 ## 🌐 Portfolio
-**Highlights** :
+**Main Projects** :
 
 - **Image forgery Detection Using Deep Learning**: [[Link to project](https://www.kaggle.com/code/alimistro123/project-image-forgery)]
-- **Natural Language Processing for Sentiment Analysis**: [Link to project]
-- **Interactive Data Visualization with Dash**: [Link to project]
+- **Emotopia-Mood-Enhancer**: [[Link to project](https://github.com/alihagrassy/Emotopia-Mood-Enhancer)]
+- **KAGGLE LLM Competition**: [[Link to project](https://www.kaggle.com/code/alimistro123/increase-stopwords)] scored ()
+- 
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, R
-- **Machine Learning**: Scikit-Learn, TensorFlow, PyTorch
-- **Data Visualization**: Matplotlib, Seaborn, Tableau
-- **Database**: SQL, MongoDB
+- **Programming Languages**: Python
+- **Machine Learning**: Scikit-Learn, TensorFlow, PyTorch,Transformers 
+- **Data Visualization**: Matplotlib, Seaborn
 - **Tools**: Jupyter, Git, Docker
-- **Statistics**: Hypothesis Testing, Regression Analysis
 
 ## 📚 Education
 
-- **Master of Science in Data Science**, [University Name], [Year]
-- **Bachelor of Science in [Your Major]**, [University Name], [Year]
+- **Bachelor of Engineering in [Communication and electronics]**, [Canadian International College], [2022]
 
 ## 📫 Let's Connect
 
@@ -35,7 +33,7 @@ Feel free to connect with me on [LinkedIn](your LinkedIn profile) or follow me o
 
 ## 🌱 Always Learning
 
-I'm a firm believer in continuous learning. Currently, I'm diving into [current learning focus or project].
+I'm a firm believer in continuous learning. Currently, I'm diving into [VTQA (Video Transcript Question Answering) and very interesting in DQA(Document Question Answering)].
 
 ## 🤝 Open to Collaboration
 
