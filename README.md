@@ -19,7 +19,7 @@ I'm a passionate and results-driven data scientist with a keen interest in lever
 ## 🌐 Portfolio
 **Main Projects** :
 
-- **Image forgery Detection Using Deep Learning**: [[Link to project](https://www.kaggle.com/code/alimistro123/project-image-forgery)] currently  joined a conference and we are waiting our paper to be published !!
+- **Image forgery Detection Using Deep Learning**: [[Link to project](https://www.kaggle.com/code/alimistro123/project-image-forgery)]  [[Published Paper](https://ieeexplore.ieee.org/document/10479638)]
 - **Emotopia-Mood-Enhancer**: [[Link to project](https://github.com/alihagrassy/Emotopia-Mood-Enhancer)] it was a trial to build an automated interactive tool to simulate an audio therapy 
 - **KAGGLE LLM Competition**: [[Link to project](https://www.kaggle.com/code/alimistro123/increase-stopwords)] scored (88.9 public and 88.7 private !!) our top score during the competition was top 149/1500 Thanks to the team we shared great results here is a prove:
 -![image](https://github.com/alihagrassy/alihagrassy/assets/82417794/662e6cd0-b8ba-4072-9cf2-4faa3fc6f43e) 
